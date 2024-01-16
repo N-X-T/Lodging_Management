@@ -1,4 +1,4 @@
-# Lodging_Manager
+# Lodging Management System
 Quản lý phong trọ triển khai với ReactJS và SpringBoot
 # Mô tả:
 Quản lý phòng trọ với các mục: cư dân, dịch vụ, hợp đồng hoá đơn, thống kê, phản hồi cư dân và danh sách tài khoản.
